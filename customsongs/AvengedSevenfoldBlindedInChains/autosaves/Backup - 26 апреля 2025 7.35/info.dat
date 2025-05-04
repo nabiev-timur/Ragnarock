@@ -1,0 +1,50 @@
+{
+  "_version": "1",
+  "_songName": "Blinded in Chains",
+  "_songSubName": "",
+  "_songAuthorName": "Avenged Sevenfold",
+  "_levelAuthorName": "",
+  "_explicit": "false",
+  "_beatsPerMinute": 190.0,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 0,
+  "_previewDuration": 0,
+  "_songApproximativeDuration": 395,
+  "_songFilename": "song.ogg",
+  "_coverImageFilename": "",
+  "_environmentName": "Midgard",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_contributors": [],
+    "_editors": {
+      "Edda": {
+        "version": "1.2.7"
+      },
+      "_lastEditedBy": "Edda"
+    }
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Easy",
+          "_difficultyRank": 12,
+          "_beatmapFilename": "Easy.dat",
+          "_noteJumpMovementSpeed": 20.0,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_editorOldOffset": 0,
+            "_editorGridSpacing": 2.0,
+            "_editorGridDivision": 16,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}

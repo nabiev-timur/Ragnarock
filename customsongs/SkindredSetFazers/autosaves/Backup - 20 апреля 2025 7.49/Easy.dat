@@ -1,0 +1,5311 @@
+{
+  "_version": "1",
+  "_customData": {
+    "_time": 0,
+    "_BPMChanges": [
+      {
+        "_BPM": 116.0,
+        "_time": 116.0,
+        "_beatsPerBar": 16,
+        "_metronomeOffset": 16
+      }
+    ],
+    "_bookmarks": []
+  },
+  "_events": [],
+  "_notes": [
+    {
+      "_time": 16.187499999999964,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 16.187499999999964,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 17.18749999999996,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 17.18749999999996,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 18.187499999999957,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 18.187499999999957,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 18.937499999999957,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 18.937499999999957,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 19.687499999999954,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 19.687499999999954,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 20.187499999999954,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 24.187499999999982,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 24.187499999999982,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 25.18750000000002,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 25.18750000000002,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 26.18750000000006,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 26.18750000000006,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 26.93750000000009,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 26.93750000000009,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 27.687500000000117,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 27.687500000000117,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 28.25000000000014,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 32.18750000000029,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 32.18750000000029,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 33.18750000000033,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 33.18750000000033,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 34.25000000000037,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 34.25000000000037,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 35.0000000000004,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 35.0000000000004,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 35.687500000000426,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 36.18750000000045,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 36.18750000000045,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 37.25000000000048,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 37.25000000000048,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 38.187500000000526,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 38.187500000000526,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 39.000000000000554,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 39.000000000000554,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 39.68750000000058,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 39.68750000000058,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 40.250000000000604,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 40.250000000000604,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 41.25000000000064,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 41.25000000000064,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 42.25000000000068,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 42.25000000000068,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 43.00000000000071,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 43.00000000000071,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 43.75000000000074,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 43.75000000000074,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 44.25000000000076,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 44.25000000000076,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 44.750000000000774,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 45.187500000000796,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 45.68750000000081,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 46.25000000000083,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 46.93750000000085,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 47.18750000000087,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 47.875000000000895,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 48.000000000000895,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 48.1875000000009,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 48.1875000000009,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 49.187500000000945,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 49.187500000000945,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 50.25000000000098,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 50.25000000000098,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 51.062500000001016,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 51.062500000001016,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 51.68750000000104,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 51.68750000000104,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 52.18750000000106,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 52.25000000000106,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 53.187500000001094,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 53.187500000001094,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 54.25000000000114,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 54.25000000000114,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 55.000000000001165,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 55.000000000001165,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 55.750000000001194,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 55.750000000001194,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 56.250000000001215,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 56.250000000001215,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 57.25000000000126,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 57.25000000000126,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 58.25000000000129,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 58.25000000000129,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 58.93750000000132,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 58.93750000000132,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 59.68750000000135,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 59.68750000000135,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 60.18750000000137,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 60.18750000000137,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 60.9375000000014,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 61.18750000000141,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 61.18750000000141,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 61.937500000001435,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 62.18750000000144,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 62.18750000000144,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 62.93750000000147,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 63.187500000001485,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 63.187500000001485,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 64.18750000000152,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 64.18750000000152,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 65.18750000000156,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 65.18750000000156,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 66.1875000000016,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 66.1875000000016,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 66.93750000000163,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 66.93750000000163,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 67.75000000000166,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 67.75000000000166,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 68.18750000000168,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 68.68750000000169,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 68.68750000000169,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 69.18750000000172,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 69.18750000000172,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 69.68750000000173,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 70.25000000000176,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 71.00000000000179,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 71.00000000000179,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 71.68750000000182,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 71.68750000000182,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 72.18750000000183,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 72.18750000000183,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 72.75000000000185,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 72.75000000000185,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 73.18750000000188,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 73.18750000000188,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 74.1875000000019,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 74.1875000000019,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 75.00000000000195,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 75.00000000000195,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 75.68750000000196,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 75.68750000000196,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 76.25000000000199,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 76.25000000000199,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 76.750000000002,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 77.25000000000203,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 77.25000000000203,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 77.75000000000205,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 78.25000000000206,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 78.25000000000206,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 79.2500000000021,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 79.2500000000021,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 80.18750000000215,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 80.18750000000215,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 81.12500000000217,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 81.12500000000217,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 81.6875000000022,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 81.6875000000022,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 82.18750000000222,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 82.18750000000222,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 82.93750000000225,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 82.93750000000225,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 83.18750000000226,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 83.18750000000226,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 83.68750000000227,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 84.62500000000232,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 85.18750000000233,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 85.68750000000236,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 86.25000000000237,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 86.9375000000024,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 86.9375000000024,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 87.18750000000242,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 87.18750000000242,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 87.68750000000243,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 87.68750000000243,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 88.68750000000247,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 88.68750000000247,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 89.18750000000249,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 89.18750000000249,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 89.81250000000252,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 89.81250000000252,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 90.25000000000253,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 90.25000000000253,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 90.93750000000256,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 91.75000000000259,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 91.75000000000259,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 96.14285714285691,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 96.14285714285691,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 97.21428571428552,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 97.21428571428552,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 98.18750000000283,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 98.18750000000283,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 98.93750000000286,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 98.93750000000286,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 99.68750000000288,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 99.68750000000288,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 100.68750000000293,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 101.18750000000294,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 101.43750000000296,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 102.18750000000298,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 102.18750000000298,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 102.93750000000301,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 103.18750000000301,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 104.37500000000307,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 104.68750000000308,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 105.1875000000031,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 105.43750000000311,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 105.43750000000311,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 106.68750000000315,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 106.68750000000315,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 107.18750000000317,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 107.43750000000318,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 108.43750000000323,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 108.68750000000323,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 109.18750000000325,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 109.43750000000325,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 109.93750000000328,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 110.1875000000033,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 110.1875000000033,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 111.18750000000333,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 111.18750000000333,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 112.18750000000337,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 112.18750000000337,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 113.18750000000341,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 113.18750000000341,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 114.18750000000344,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 114.18750000000344,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 114.93750000000347,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 114.93750000000347,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 115.6875000000035,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 115.6875000000035,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 116.68750000000001,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 116.68750000000001,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 117.18750000000004,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 118.18750000000007,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 118.18750000000007,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 118.9375000000001,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 118.9375000000001,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 119.18750000000011,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 119.18750000000011,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 120.43750000000016,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 120.43750000000016,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 120.68750000000017,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 120.68750000000017,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 121.18750000000018,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 121.4375000000002,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 122.43750000000024,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 122.68750000000024,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 123.18750000000027,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 123.43750000000028,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 124.43750000000031,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 124.68750000000033,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 125.18750000000034,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 125.43750000000036,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 125.93750000000037,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 125.93750000000037,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 126.18750000000038,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 126.4375000000004,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 126.6875000000004,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 127.18750000000043,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 127.43750000000043,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 127.93750000000045,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 128.18750000000045,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 136.18750000000077,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 136.18750000000077,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 137.1875000000008,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 137.1875000000008,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 138.18750000000082,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 138.18750000000082,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 138.93750000000085,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 138.93750000000085,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 139.68750000000088,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 139.68750000000088,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 140.2500000000009,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 144.18750000000108,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 144.18750000000108,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 145.1875000000011,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 145.1875000000011,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 146.18750000000114,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 146.18750000000114,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 146.93750000000117,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 146.93750000000117,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 147.6875000000012,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 147.6875000000012,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 148.25000000000122,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 152.1875000000014,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 152.1875000000014,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 152.93750000000142,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 152.93750000000142,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 153.18750000000142,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 153.18750000000142,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 154.18750000000148,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 154.18750000000148,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 154.9375000000015,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 154.9375000000015,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 155.68750000000153,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 155.68750000000153,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 156.18750000000153,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 157.1875000000016,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 157.1875000000016,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 158.18750000000162,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 158.18750000000162,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 159.00000000000165,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 159.00000000000165,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 159.68750000000168,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 159.68750000000168,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 160.2500000000017,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 160.2500000000017,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 161.18750000000173,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 161.18750000000173,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 162.18750000000176,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 162.18750000000176,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 163.00000000000182,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 163.00000000000182,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 163.68750000000182,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 164.18750000000185,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 164.18750000000185,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 165.1875000000019,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 165.1875000000019,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 166.18750000000193,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 166.18750000000193,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 167.18750000000196,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 167.18750000000196,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 167.687500000002,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 167.687500000002,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 168.18750000000202,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 168.18750000000202,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 169.18750000000205,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 169.18750000000205,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 170.18750000000207,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 170.18750000000207,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 170.9375000000021,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 170.9375000000021,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 171.68750000000213,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 171.68750000000213,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 172.6875000000022,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 172.6875000000022,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 173.1875000000022,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 173.1875000000022,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 173.62500000000222,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 174.18750000000225,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 174.93750000000227,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 175.18750000000227,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 175.6875000000023,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 175.6875000000023,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 176.1875000000023,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 176.68750000000233,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 177.18750000000236,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 177.6875000000024,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 178.1875000000024,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 179.00000000000242,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 179.75000000000244,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 179.75000000000244,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 180.6875000000025,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 180.6875000000025,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 181.68750000000253,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 181.68750000000253,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 188.18750000000279,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 188.18750000000279,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 189.1875000000028,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 189.1875000000028,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 190.18750000000287,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 190.18750000000287,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 190.9375000000029,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 190.9375000000029,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 191.68750000000293,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 191.68750000000293,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 192.68750000000296,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 192.68750000000296,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 193.18750000000298,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 193.18750000000298,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 194.187500000003,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 194.187500000003,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 194.93750000000304,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 195.18750000000304,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 196.4375000000031,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 196.6875000000031,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 197.25000000000313,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 197.43750000000313,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 198.43750000000318,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 198.73214285714903,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 198.73214285714903,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 199.1875000000032,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 199.4375000000032,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 200.43750000000324,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 200.73214285714909,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 200.73214285714909,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 201.18750000000327,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 201.43750000000327,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 201.93750000000333,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 202.23214285714917,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 202.23214285714917,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 202.68750000000335,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 202.93750000000335,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 203.23214285714917,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 203.23214285714917,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 204.2321428571492,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 204.2321428571492,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 205.23214285714926,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 205.23214285714926,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 206.23214285714928,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 206.23214285714928,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 206.9821428571493,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 206.9821428571493,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 207.73214285714934,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 207.73214285714934,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 208.73214285714585,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 208.73214285714585,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 209.23214285714587,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 209.23214285714587,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 210.2321428571459,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 210.2321428571459,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 210.98214285714593,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 210.98214285714593,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 211.23214285714596,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 211.23214285714596,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 212.43750000000372,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 212.43750000000372,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 212.68750000000372,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 213.18750000000375,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 213.43750000000375,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 214.48214285714607,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 214.73214285714607,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 215.18750000000384,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 215.43750000000384,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 216.48214285714616,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 216.7321428571462,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 217.2321428571462,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 217.4821428571462,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 217.9821428571462,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 217.9821428571462,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 218.2321428571462,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 218.4821428571462,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 218.7321428571462,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 219.23214285714621,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 219.48214285714621,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 219.98214285714624,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 220.23214285714624,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 222.1250000000041,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 222.62500000000412,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 223.18750000000412,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 223.68750000000415,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 224.68750000000418,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 224.68750000000418,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 225.1875000000042,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 225.1875000000042,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 226.18750000000423,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 226.18750000000423,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 226.62500000000426,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 226.62500000000426,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 227.1875000000043,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 227.1875000000043,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 227.68750000000432,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 227.68750000000432,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 228.18750000000432,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 228.18750000000432,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 229.18750000000438,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 229.9375000000044,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 230.1875000000044,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 230.4375000000044,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 230.68750000000443,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 231.00000000000443,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 231.25000000000443,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 231.68750000000446,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 232.6875000000045,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 232.6875000000045,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 233.18750000000452,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 233.18750000000452,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 234.06250000000455,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 234.68750000000458,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 235.1875000000046,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 235.1875000000046,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 235.6875000000046,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 235.6875000000046,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 236.12500000000463,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 237.18750000000466,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 237.18750000000466,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 238.18750000000472,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 238.68750000000472,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 239.12500000000475,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 239.68750000000477,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 240.6875000000048,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 240.6875000000048,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 241.18750000000483,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 241.18750000000483,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 241.93750000000486,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 242.18750000000486,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 242.6875000000049,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 243.18750000000492,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 243.68750000000492,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 243.68750000000492,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 244.18750000000495,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 244.18750000000495,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 245.12500000000497,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 245.12500000000497,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 246.18750000000503,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 246.18750000000503,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 247.18750000000506,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 247.18750000000506,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 248.1250000000051,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 248.1250000000051,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 249.18750000000514,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 249.18750000000514,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 250.12500000000517,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 250.12500000000517,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 250.9375000000052,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 250.9375000000052,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 251.50000000000523,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 252.12500000000526,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 252.12500000000526,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 253.1875000000053,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 254.12500000000531,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 254.93750000000537,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 255.18750000000537,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 255.43750000000537,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 255.6875000000054,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 256.6875000000054,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 256.6875000000054,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 257.18750000000546,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 257.62500000000546,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 257.62500000000546,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 258.1875000000055,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 258.1875000000055,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 258.6250000000055,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 258.6250000000055,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 259.1250000000055,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 259.1250000000055,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 259.4375000000055,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 259.4375000000055,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 259.68750000000557,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 259.68750000000557,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 260.12500000000557,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 260.12500000000557,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 261.1875000000056,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 261.3750000000056,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 261.5625000000056,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 261.8125000000056,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 262.1250000000056,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 262.8750000000057,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 263.6250000000057,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 264.62500000000574,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 265.18750000000574,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 265.6250000000058,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 266.1875000000058,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 266.8750000000058,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 267.68750000000585,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 268.18750000000585,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 269.1875000000059,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 269.4375000000059,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 269.6250000000059,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 269.8750000000059,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 270.12500000000597,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 270.87500000000597,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 271.625000000006,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 272.687500000006,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 273.1250000000061,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 273.6250000000061,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 274.1875000000061,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 274.1875000000061,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 274.62500000000614,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 275.12500000000614,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 275.12500000000614,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 275.62500000000614,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 275.62500000000614,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 276.1250000000062,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 276.1250000000062,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 277.1250000000062,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 277.1250000000062,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 278.18750000000625,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 278.18750000000625,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 278.9375000000063,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 279.0625000000063,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 279.1875000000063,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 279.3125000000063,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 279.4375000000063,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 279.5625000000063,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 279.6875000000063,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 280.68750000000637,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 281.18750000000637,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 281.43750000000637,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 282.1875000000064,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 282.6875000000064,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 283.1875000000065,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 283.3750000000065,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 283.6875000000065,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 283.9375000000065,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 284.2500000000065,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 284.2500000000065,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 300.1875000000071,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 300.1875000000071,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 301.18750000000716,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 301.18750000000716,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 302.18750000000716,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 302.18750000000716,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 302.9375000000072,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 302.9375000000072,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 303.6875000000072,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 303.6875000000072,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 304.6875000000073,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 305.1875000000073,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 305.43750000000733,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 306.18750000000733,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 306.18750000000733,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 306.9375000000074,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 307.1875000000074,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 307.6875000000074,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 308.18750000000745,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 309.18750000000745,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 309.18750000000745,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 310.1875000000075,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 310.1875000000075,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 310.9375000000075,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 310.9375000000075,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 311.18750000000756,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 311.68750000000756,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 312.50000000000756,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 312.6875000000076,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 313.23214285715335,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 313.48214285715335,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 313.98214285715335,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 314.23214285715335,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 314.23214285715335,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 315.23214285715335,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 315.23214285715335,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 316.2321428571534,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 316.2321428571534,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 317.23214285715346,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 317.23214285715346,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 318.23214285715346,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 318.23214285715346,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 318.98214285715346,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 318.98214285715346,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 319.73214285715346,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 319.73214285715346,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 320.73214285714994,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 320.73214285714994,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 321.23214285714994,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 321.23214285714994,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 322.23214285714994,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 322.23214285714994,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 322.98214285714994,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 322.98214285714994,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 323.23214285714994,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 323.23214285714994,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 324.48214285715,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 324.48214285715,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 324.73214285715,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 324.73214285715,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 325.23214285715,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 325.48214285715,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 326.48214285715005,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 326.73214285715005,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 327.23214285715005,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 327.48214285715005,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 327.6875000000082,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 328.6875000000082,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 328.6875000000082,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 329.23214285715005,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 329.48214285715005,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 329.98214285715005,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 329.98214285715005,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 330.18750000000824,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 330.5625000000083,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 330.9375000000083,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 331.1875000000083,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 331.4375000000083,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 331.93750000000836,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 332.12500000000836,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 333.1875000000084,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 333.1875000000084,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 334.1875000000084,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 334.1875000000084,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 334.93750000000847,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 334.93750000000847,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 335.18750000000847,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 335.18750000000847,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 335.68750000000847,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 335.68750000000847,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 336.6875000000085,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 336.6875000000085,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 337.1875000000085,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 337.3750000000085,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 337.3750000000085,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 338.1875000000086,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 338.1875000000086,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 338.9375000000086,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 339.18750000000864,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 339.18750000000864,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 339.68750000000864,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 339.68750000000864,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 340.18750000000864,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 340.18750000000864,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 341.1875000000087,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 341.1875000000087,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 342.12500000000875,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 342.93750000000875,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 343.18750000000875,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 343.18750000000875,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 343.6875000000088,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 343.6875000000088,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 344.6875000000088,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 344.6875000000088,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 345.18750000000887,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 345.43750000000887,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 345.43750000000887,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 346.18750000000887,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 346.18750000000887,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 347.1875000000089,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 347.4375000000089,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 347.4375000000089,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 348.187500000009,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 348.187500000009,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 349.187500000009,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 349.187500000009,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 350.18750000000904,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 350.18750000000904,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 350.9375000000091,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 351.1875000000091,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 351.1875000000091,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 351.6875000000091,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 352.68750000000915,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 353.18750000000915,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 353.43750000000915,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 353.43750000000915,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 353.8125000000092,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 354.1875000000092,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 354.1875000000092,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 354.9375000000092,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 355.1875000000092,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 355.1875000000092,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 355.68750000000927,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 355.68750000000927,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 356.12500000000927,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 356.12500000000927,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 357.1875000000093,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 357.1875000000093,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 358.1875000000094,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 358.1875000000094,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 358.9375000000094,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 359.1875000000094,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 359.68750000000944,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 359.68750000000944,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 360.18750000000944,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 360.68750000000944,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 360.68750000000944,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 361.1250000000095,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 361.4375000000095,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 361.4375000000095,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 362.1875000000095,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 362.5625000000095,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 362.68750000000955,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 362.81250000000955,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 362.93750000000955,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 363.06250000000955,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 363.18750000000955,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 363.31250000000955,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 363.43750000000955,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 363.56250000000955,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 363.68750000000955,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 363.81250000000955,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 363.93750000000955,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 364.1250000000096,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 364.1250000000096,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    }
+  ],
+  "_obstacles": []
+}

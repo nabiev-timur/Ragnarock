@@ -1,0 +1,18 @@
+{
+  "_version": "1",
+  "_customData": {
+    "_time": 0,
+    "_BPMChanges": [
+      {
+        "_BPM": 116.0,
+        "_time": 116.0,
+        "_beatsPerBar": 16,
+        "_metronomeOffset": 16
+      }
+    ],
+    "_bookmarks": []
+  },
+  "_events": [],
+  "_notes": [],
+  "_obstacles": []
+}

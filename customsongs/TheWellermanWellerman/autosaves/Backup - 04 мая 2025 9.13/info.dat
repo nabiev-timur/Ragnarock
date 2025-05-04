@@ -1,0 +1,50 @@
+{
+  "_version": "1",
+  "_songName": "Wellerman",
+  "_songSubName": "",
+  "_songAuthorName": "The Wellerman",
+  "_levelAuthorName": "",
+  "_explicit": "false",
+  "_beatsPerMinute": 90.0,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 0,
+  "_previewDuration": 0,
+  "_songApproximativeDuration": 134,
+  "_songFilename": "song.ogg",
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "Midgard",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_contributors": [],
+    "_editors": {
+      "Edda": {
+        "version": "1.2.7"
+      },
+      "_lastEditedBy": "Edda"
+    }
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Easy",
+          "_difficultyRank": 1,
+          "_beatmapFilename": "Easy.dat",
+          "_noteJumpMovementSpeed": 20.0,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_editorOldOffset": 0,
+            "_editorGridSpacing": 2.0,
+            "_editorGridDivision": 16,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}
