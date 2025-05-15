@@ -13,7 +13,7 @@
   "_songApproximativeDuration": 195,
   "_songFilename": "song.ogg",
   "_coverImageFilename": "cover.jpg",
-  "_environmentName": "Midgard",
+  "_environmentName": "Hellfest",
   "_songTimeOffset": 0,
   "_customData": {
     "_contributors": [],
@@ -32,7 +32,7 @@
           "_difficulty": "Easy",
           "_difficultyRank": 1,
           "_beatmapFilename": "Easy.dat",
-          "_noteJumpMovementSpeed": 20.0,
+          "_noteJumpMovementSpeed": 22.0,
           "_noteJumpStartBeatOffset": 0,
           "_customData": {
             "_editorOldOffset": 0,

@@ -3,229 +3,220 @@
   "_customData": {
     "_time": 0,
     "_BPMChanges": [],
-    "_bookmarks": []
+    "_bookmarks": [
+      {
+        "_time": 13.9374999999996,
+        "_name": "Bookmark"
+      }
+    ]
   },
   "_events": [],
   "_notes": [
     {
-      "_time": 0.25,
+      "_time": 0.0,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 0.8124999999999982,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 1.2499999999999973,
+      "_time": 0.3125,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 1.2499999999999973,
+      "_time": 0.6875,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 1.749999999999996,
+      "_time": 1.0,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 1.749999999999996,
+      "_time": 1.3125,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 2.2499999999999982,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 2.8124999999999964,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 3.2499999999999956,
+      "_time": 1.6874999999999996,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 3.2499999999999956,
-      "_lineIndex": 2,
+      "_time": 1.9999999999999987,
+      "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 3.7499999999999942,
+      "_time": 2.999999999999996,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 3.7499999999999942,
+      "_time": 3.312499999999995,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 4.2499999999999964,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 4.812499999999995,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 5.249999999999994,
+      "_time": 3.6249999999999947,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 5.249999999999994,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 5.749999999999993,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 5.749999999999993,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 6.249999999999991,
+      "_time": 3.9999999999999933,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 6.812499999999989,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 7.2499999999999885,
+      "_time": 4.312499999999993,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 7.2499999999999885,
+      "_time": 4.624999999999992,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 7.749999999999988,
+      "_time": 4.999999999999996,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 7.749999999999988,
-      "_lineIndex": 2,
+      "_time": 5.9999999999999885,
+      "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 8.249999999999986,
+      "_time": 5.9999999999999885,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 8.812499999999984,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 9.249999999999982,
+      "_time": 6.312499999999988,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 9.249999999999982,
+      "_time": 6.312499999999988,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 9.74999999999998,
+      "_time": 6.624999999999987,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 6.624999999999987,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 6.999999999999986,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 9.74999999999998,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 10.249999999999979,
+      "_time": 6.999999999999986,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 10.812499999999977,
+      "_time": 7.937499999999983,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 8.249999999999982,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 8.624999999999982,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 8.93749999999998,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 9.31249999999998,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 9.624999999999979,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 9.999999999999979,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 10.999999999999975,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
@@ -239,896 +230,931 @@
       "_cutDirection": 1
     },
     {
-      "_time": 11.249999999999975,
+      "_time": 11.562499999999973,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 11.749999999999975,
+      "_time": 11.937499999999975,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 11.749999999999975,
+      "_time": 12.312499999999973,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 12.249999999999973,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 12.812499999999972,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 13.249999999999972,
+      "_time": 12.624999999999973,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 13.249999999999972,
-      "_lineIndex": 2,
+      "_time": 12.999999999999972,
+      "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 13.749999999999972,
+      "_time": 13.93749999999997,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 13.749999999999972,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 14.249999999999972,
+      "_time": 13.93749999999997,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 14.81249999999997,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 15.249999999999968,
+      "_time": 14.249999999999968,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 15.249999999999968,
+      "_time": 14.249999999999968,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 15.749999999999966,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 15.749999999999966,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 16.249999999999964,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 16.812499999999964,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 17.249999999999964,
+      "_time": 14.562499999999968,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 17.249999999999964,
+      "_time": 14.562499999999968,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 17.749999999999964,
+      "_time": 14.937499999999968,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 17.749999999999964,
+      "_time": 14.937499999999968,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 15.874999999999964,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 16.187499999999964,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 18.249999999999964,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 18.812499999999964,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 19.249999999999964,
+      "_time": 16.49999999999996,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 19.249999999999964,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 19.749999999999964,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 19.749999999999964,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 20.24999999999996,
+      "_time": 16.874999999999964,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 20.812499999999957,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 21.249999999999957,
+      "_time": 17.18749999999996,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 21.249999999999957,
+      "_time": 17.562499999999964,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 21.749999999999957,
+      "_time": 17.937499999999964,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 21.749999999999957,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 22.249999999999957,
+      "_time": 18.93749999999996,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 22.812499999999957,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 23.249999999999957,
+      "_time": 19.18749999999996,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 23.249999999999957,
+      "_time": 19.499999999999957,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 23.749999999999957,
+      "_time": 19.874999999999957,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 23.749999999999957,
+      "_time": 20.249999999999957,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 24.249999999999957,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 24.812499999999957,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 25.249999999999957,
+      "_time": 20.562499999999957,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 25.249999999999957,
+      "_time": 20.937499999999957,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 21.81249999999995,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 21.81249999999995,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 22.187499999999957,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 22.187499999999957,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 25.749999999999957,
-      "_lineIndex": 0,
+      "_time": 22.499999999999957,
+      "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 25.749999999999957,
+      "_time": 22.499999999999957,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 26.249999999999982,
+      "_time": 22.874999999999957,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 22.874999999999957,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 26.81249999999998,
-      "_lineIndex": 3,
+      "_time": 23.812499999999968,
+      "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 27.24999999999998,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 27.24999999999998,
+      "_time": 24.124999999999968,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 27.74999999999998,
-      "_lineIndex": 0,
+      "_time": 24.437499999999964,
+      "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 27.74999999999998,
+      "_time": 24.812499999999968,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 25.124999999999964,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 25.499999999999968,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 28.24999999999998,
+      "_time": 25.812500000000043,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 26.75000000000008,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 28.81249999999998,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 29.24999999999998,
+      "_time": 27.062500000000092,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 29.24999999999998,
+      "_time": 27.43749999999996,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 29.74999999999998,
+      "_time": 27.75000000000012,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 29.74999999999998,
+      "_time": 28.125000000000135,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 30.24999999999998,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 30.81249999999998,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 31.24999999999998,
+      "_time": 28.437500000000146,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 31.24999999999998,
+      "_time": 28.81250000000016,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 29.749999999999954,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 29.749999999999954,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 30.12499999999996,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 30.12499999999996,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 31.74999999999998,
-      "_lineIndex": 0,
+      "_time": 30.43749999999996,
+      "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 31.74999999999998,
+      "_time": 30.43749999999996,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 32.25000000000021,
+      "_time": 30.81249999999996,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 30.81249999999996,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 32.81250000000021,
-      "_lineIndex": 3,
+      "_time": 31.750000000000274,
+      "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 33.25000000000021,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 33.25000000000021,
+      "_time": 31.750000000000274,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 33.75000000000021,
+      "_time": 32.68750000000031,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 33.75000000000021,
+      "_time": 32.68750000000031,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 33.75000000000035,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 33.75000000000035,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 34.25000000000021,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 34.81250000000021,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 35.25000000000021,
+      "_time": 34.68750000000039,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 35.25000000000021,
+      "_time": 34.68750000000039,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 35.750000000000426,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 35.750000000000426,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 36.62500000000046,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 36.62500000000046,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 37.6250000000005,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 37.6250000000005,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 35.75000000000021,
+      "_time": 38.62500000000054,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 35.75000000000021,
+      "_time": 38.62500000000054,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 39.625000000000576,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 39.625000000000576,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 36.25000000000021,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 36.81250000000021,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 37.25000000000021,
+      "_time": 40.62500000000062,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 37.25000000000021,
+      "_time": 40.62500000000062,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 41.625000000000654,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 41.625000000000654,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 42.625000000000696,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 42.625000000000696,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 43.62500000000073,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 43.62500000000073,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 37.75000000000021,
+      "_time": 44.56250000000077,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 37.75000000000021,
+      "_time": 44.56250000000077,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 45.62500000000081,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 45.62500000000081,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 38.042119565217305,
+      "_time": 46.625000000000846,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 38.290760869565126,
+      "_time": 46.625000000000846,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 47.56250000000088,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 47.56250000000088,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 48.56250000000092,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 48.56250000000092,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 49.56250000000096,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 49.56250000000096,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 38.539402173912954,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 38.788043478260775,
+      "_time": 50.562500000000995,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 39.0366847826086,
-      "_lineIndex": 1,
+      "_time": 50.562500000000995,
+      "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 39.28532608695643,
+      "_time": 51.50000000000103,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 51.50000000000103,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 39.53396739130425,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 39.78260869565208,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 40.03124999999991,
+      "_time": 52.50000000000107,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 40.250000000000604,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 40.250000000000604,
+      "_time": 52.50000000000107,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 41.31250000000065,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 41.75000000000066,
+      "_time": 53.50000000000111,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 42.187500000000675,
+      "_time": 53.50000000000111,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 54.50000000000115,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 42.687500000000696,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 43.31250000000072,
+      "_time": 54.50000000000115,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 44.31250000000076,
+      "_time": 55.43750000000119,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 45.250000000000796,
+      "_time": 55.43750000000119,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 56.50000000000122,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 56.50000000000122,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 45.81250000000082,
+      "_time": 57.437500000001265,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 57.437500000001265,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 58.5000000000013,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 46.81250000000085,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 47.25000000000087,
+      "_time": 58.5000000000013,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 47.81250000000089,
+      "_time": 59.437500000001336,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 48.31250000000091,
+      "_time": 59.437500000001336,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 60.43750000000138,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 49.250000000000945,
+      "_time": 60.43750000000138,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 50.31250000000099,
-      "_lineIndex": 0,
+      "_time": 61.0000000000014,
+      "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 50.750000000001,
+      "_time": 61.18750000000141,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 51.25000000000102,
-      "_lineIndex": 3,
+      "_time": 61.375000000001414,
+      "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 51.750000000001044,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 52.25000000000106,
+      "_time": 61.56250000000142,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 52.81250000000108,
-      "_lineIndex": 0,
+      "_time": 61.75000000000143,
+      "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 53.2500000000011,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 53.750000000001116,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 54.25000000000114,
+      "_time": 61.937500000001435,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 54.75000000000116,
-      "_lineIndex": 0,
+      "_time": 62.12500000000144,
+      "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 55.31250000000118,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 56.312500000001215,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 57.25000000000126,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 57.81250000000128,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 58.31250000000129,
+      "_time": 62.31250000000145,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 58.812500000001315,
-      "_lineIndex": 0,
+      "_time": 62.50000000000146,
+      "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 59.25000000000133,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 60.31250000000137,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 61.25000000000141,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 61.875000000001435,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 62.37500000000145,
+      "_time": 62.687500000001464,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 62.81250000000147,
+      "_time": 62.87500000000147,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 63.06250000000148,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 63.31250000000149,
+      "_time": 63.250000000001485,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 63.43750000000149,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 63.93750000000151,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 63.93750000000151,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
@@ -1136,42 +1162,56 @@
     },
     {
       "_time": 64.37500000000153,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 65.25000000000156,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 65.81250000000159,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 66.3125000000016,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 66.81250000000162,
+      "_time": 64.62500000000153,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 64.93750000000155,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 67.31250000000165,
+      "_time": 64.93750000000155,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 67.37500000000165,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 67.37500000000165,
       "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 67.87500000000166,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 68.37500000000169,
+      "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
@@ -1184,29 +1224,78 @@
       "_cutDirection": 1
     },
     {
-      "_time": 70.25000000000176,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 71.25000000000179,
+      "_time": 68.8125000000017,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 71.75000000000182,
+      "_time": 69.31250000000172,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 72.25000000000183,
+      "_time": 69.31250000000172,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 69.81250000000173,
       "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 70.31250000000176,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 70.81250000000178,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 70.81250000000178,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 71.3125000000018,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 71.3125000000018,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 71.81250000000182,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 72.31250000000183,
+      "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
@@ -1220,14 +1309,14 @@
     },
     {
       "_time": 72.81250000000186,
-      "_lineIndex": 3,
+      "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
       "_time": 73.31250000000188,
-      "_lineIndex": 0,
+      "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
@@ -1241,62 +1330,160 @@
     },
     {
       "_time": 73.81250000000189,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 73.81250000000189,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 75.31250000000195,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 77.31250000000203,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 79.2500000000021,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 80.31250000000215,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 80.31250000000215,
+      "_time": 74.31250000000192,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 80.75000000000216,
+      "_time": 74.75000000000193,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 80.75000000000216,
+      "_time": 74.75000000000193,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 75.25000000000195,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 75.25000000000195,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 75.75000000000198,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 76.31250000000199,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 76.750000000002,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 76.750000000002,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 77.25000000000203,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 77.25000000000203,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 77.75000000000205,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 78.25000000000206,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 78.68750000000209,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 78.68750000000209,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 79.3125000000021,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 79.3125000000021,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 79.68750000000212,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 80.25000000000215,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 80.68750000000216,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 80.68750000000216,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 81.25000000000219,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
@@ -1304,454 +1491,573 @@
     },
     {
       "_time": 81.25000000000219,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 81.25000000000219,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 81.8125000000022,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 81.8125000000022,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 83.31250000000226,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 85.31250000000234,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 87.31250000000242,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 88.31250000000246,
+      "_time": 81.6875000000022,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 88.31250000000246,
+      "_time": 82.18750000000222,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 88.75000000000247,
+      "_time": 82.68750000000223,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 88.75000000000247,
+      "_time": 82.68750000000223,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 83.18750000000226,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 89.2500000000025,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 89.2500000000025,
+      "_time": 83.18750000000226,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 89.81250000000252,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 89.81250000000252,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 91.25000000000257,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 93.25000000000263,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 95.25000000000271,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 96.31250000000276,
+      "_time": 83.68750000000227,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 96.31250000000276,
+      "_time": 84.1875000000023,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 96.75000000000277,
+      "_time": 84.68750000000232,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 96.75000000000277,
+      "_time": 84.68750000000232,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 85.18750000000233,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 97.2500000000028,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 97.2500000000028,
+      "_time": 85.18750000000233,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 97.81250000000281,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 97.81250000000281,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 98.81250000000286,
+      "_time": 85.62500000000234,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 99.25000000000287,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 99.75000000000288,
+      "_time": 86.12500000000237,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 100.2500000000029,
+      "_time": 86.62500000000239,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 86.62500000000239,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 100.81250000000293,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 101.31250000000294,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 101.31250000000294,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 102.25000000000298,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 102.25000000000298,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 103.25000000000303,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 103.25000000000303,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 104.25000000000306,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 104.25000000000306,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 104.81250000000308,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 105.2500000000031,
+      "_time": 87.12500000000242,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 105.81250000000313,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 106.81250000000315,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 107.25000000000318,
+      "_time": 87.12500000000242,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 107.7500000000032,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 108.75000000000324,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 109.25000000000325,
+      "_time": 87.68750000000243,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 109.25000000000325,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 110.2500000000033,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 111.31250000000334,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 111.31250000000334,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 112.31250000000337,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 112.8125000000034,
+      "_time": 88.12500000000244,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 113.25000000000341,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 113.31250000000341,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 113.81250000000342,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 114.75000000000347,
+      "_time": 88.68750000000247,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 115.25000000000348,
+      "_time": 88.68750000000247,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 115.25000000000348,
+      "_time": 89.12500000000249,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 89.12500000000249,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 115.75000000000351,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 116.75000000000354,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 117.25000000000357,
+      "_time": 89.6250000000025,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 117.25000000000357,
+      "_time": 90.12500000000253,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 90.56250000000254,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 91.00000000000256,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 118.1875000000036,
+      "_time": 91.06250000000256,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 119.18750000000364,
+      "_time": 91.31250000000257,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 91.50000000000257,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 91.68750000000259,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 91.87500000000259,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 92.0625000000026,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 92.2500000000026,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 92.43750000000261,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 92.62500000000261,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 92.81250000000263,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 93.00000000000263,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 93.18750000000263,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 93.37500000000264,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 93.56250000000264,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 93.75000000000266,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 93.93750000000266,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 94.12500000000267,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 94.31250000000267,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 94.50000000000269,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 94.68750000000269,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 94.8750000000027,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 95.0625000000027,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 95.0625000000027,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 110.93750000000333,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 110.93750000000333,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 111.43750000000334,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 111.43750000000334,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 112.37500000000337,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 112.37500000000337,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 112.8750000000034,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 112.8750000000034,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 113.37500000000341,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 113.37500000000341,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 114.31250000000345,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 114.31250000000345,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 114.87500000000347,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 114.87500000000347,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 115.3750000000035,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 115.3750000000035,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 116.31250000000352,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 116.31250000000352,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 116.81250000000355,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 116.81250000000355,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 117.31250000000357,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 117.31250000000357,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 117.81250000000358,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 117.81250000000358,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 118.31250000000361,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 118.31250000000361,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 118.75000000000362,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 118.75000000000362,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 119.25000000000364,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 119.25000000000364,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
@@ -1765,112 +2071,210 @@
       "_cutDirection": 1
     },
     {
-      "_time": 120.8125000000037,
+      "_time": 120.25000000000368,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 121.25000000000372,
+      "_time": 120.8125000000037,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 120.8125000000037,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 121.31250000000372,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 121.25000000000372,
-      "_lineIndex": 3,
+      "_time": 121.31250000000372,
+      "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
       "_time": 121.81250000000374,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 122.81250000000378,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 123.2500000000038,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 123.2500000000038,
+      "_time": 122.06250000000375,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 122.31250000000377,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 122.75000000000378,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 122.93750000000378,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 123.1875000000038,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 123.43750000000381,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 123.62500000000381,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 123.81250000000382,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 124.06250000000382,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 124.06250000000382,
       "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 124.25000000000384,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 124.56250000000385,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 124.62500000000385,
+      "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
       "_time": 124.75000000000385,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 125.31250000000388,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 125.31250000000388,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 126.31250000000391,
+      "_time": 124.93750000000387,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 127.25000000000395,
+      "_time": 125.18750000000387,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 125.37500000000388,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 127.25000000000395,
+      "_time": 125.6250000000039,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 125.6250000000039,
       "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 126.68750000000392,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 127.00000000000394,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 127.68750000000396,
+      "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
       "_time": 128.25000000000398,
-      "_lineIndex": 1,
+      "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
       "_time": 128.687500000004,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 129.25000000000404,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
@@ -1884,511 +2288,665 @@
       "_cutDirection": 1
     },
     {
-      "_time": 129.81250000000404,
+      "_time": 129.68750000000404,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 130.18750000000406,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 130.8125000000041,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 131.2500000000041,
+      "_time": 130.6875000000041,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 131.2500000000041,
+      "_time": 131.1875000000041,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 132.75000000000415,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 133.25000000000418,
+      "_time": 131.62500000000412,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 133.25000000000418,
+      "_time": 132.18750000000415,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 134.0000000000042,
+      "_time": 132.62500000000415,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 134.31250000000423,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 134.31250000000423,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 134.81250000000423,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 134.81250000000423,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 135.25000000000426,
+      "_time": 133.18750000000418,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 135.31250000000426,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 135.8125000000043,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 135.8125000000043,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 136.2500000000043,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 136.2500000000043,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 137.31250000000435,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 137.31250000000435,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 138.31250000000438,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 138.31250000000438,
+      "_time": 133.6875000000042,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 139.3750000000044,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 139.3750000000044,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 140.31250000000446,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 140.31250000000446,
+      "_time": 134.1875000000042,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 141.3125000000045,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 141.3125000000045,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 142.37500000000455,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 142.37500000000455,
+      "_time": 134.62500000000423,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 143.37500000000458,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 143.37500000000458,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 144.3750000000046,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 144.3750000000046,
+      "_time": 135.18750000000426,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 145.37500000000466,
+      "_time": 135.62500000000426,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 145.37500000000466,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 146.3750000000047,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 146.3750000000047,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 147.37500000000472,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 147.37500000000472,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 148.18750000000475,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 148.18750000000475,
+      "_time": 136.1875000000043,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 152.18750000000492,
-      "_lineIndex": 0,
+      "_time": 136.62500000000432,
+      "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 152.18750000000492,
+      "_time": 137.12500000000432,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 153.25000000000495,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 153.62500000000497,
+      "_time": 137.62500000000435,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 154.125000000005,
+      "_time": 138.18750000000438,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 138.62500000000438,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 139.1875000000044,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 139.56250000000443,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 154.125000000005,
+      "_time": 140.18750000000446,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 140.56250000000446,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 141.1250000000045,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 141.5625000000045,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 142.12500000000452,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 142.56250000000455,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 143.00000000000455,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 143.56250000000458,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 144.0000000000046,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 144.56250000000463,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 145.06250000000463,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 145.50000000000466,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 146.0625000000047,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 146.5000000000047,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 147.06250000000472,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 147.50000000000475,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 148.06250000000475,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 148.50000000000477,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 149.0000000000048,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 149.5000000000048,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 150.00000000000483,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 150.43750000000486,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 151.00000000000486,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 151.4375000000049,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 152.00000000000492,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 152.43750000000492,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 153.00000000000495,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 153.43750000000497,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 153.93750000000497,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 154.437500000005,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 154.437500000005,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 154.687500000005,
       "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 154.93750000000503,
+      "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
       "_time": 155.18750000000503,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 155.43750000000503,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 155.18750000000503,
-      "_lineIndex": 3,
+      "_time": 155.68750000000506,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 155.93750000000506,
+      "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
       "_time": 156.18750000000506,
-      "_lineIndex": 0,
+      "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 156.18750000000506,
+      "_time": 156.4375000000051,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 156.6875000000051,
       "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 156.9375000000051,
+      "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
       "_time": 157.18750000000512,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 157.18750000000512,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 157.68750000000512,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 157.68750000000512,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 159.18750000000517,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 159.18750000000517,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 159.7500000000052,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 160.18750000000523,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 160.18750000000523,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 161.25000000000526,
+      "_time": 157.43750000000512,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 161.25000000000526,
+      "_time": 157.43750000000512,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 158.37500000000514,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 158.37500000000514,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 159.3750000000052,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 162.25000000000531,
+      "_time": 159.3750000000052,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 159.9375000000052,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 162.75000000000531,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 163.18750000000534,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 163.68750000000537,
+      "_time": 160.37500000000523,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 164.18750000000537,
+      "_time": 160.37500000000523,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 160.93750000000526,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 164.7500000000054,
+      "_time": 161.37500000000526,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 165.68750000000543,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 165.68750000000543,
+      "_time": 161.37500000000526,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 167.25000000000549,
+      "_time": 161.8750000000053,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 162.37500000000531,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 167.25000000000549,
+      "_time": 162.37500000000531,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 162.93750000000534,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 163.31250000000534,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 163.31250000000534,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 163.81250000000537,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 164.31250000000537,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 164.31250000000537,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 164.8750000000054,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 165.31250000000543,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 165.31250000000543,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 165.81250000000543,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 166.31250000000546,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 166.31250000000546,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 166.87500000000549,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 167.31250000000549,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 167.31250000000549,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 167.7500000000055,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 168.18750000000554,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
@@ -2402,7 +2960,7 @@
       "_cutDirection": 1
     },
     {
-      "_time": 168.25000000000554,
+      "_time": 168.81250000000554,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
@@ -2417,21 +2975,14 @@
     },
     {
       "_time": 169.31250000000557,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 169.8125000000056,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 169.8125000000056,
       "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 169.6875000000056,
+      "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
@@ -2445,62 +2996,69 @@
     },
     {
       "_time": 170.2500000000056,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 170.62500000000563,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 170.62500000000563,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 171.18750000000566,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 171.18750000000566,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 172.18750000000568,
+      "_time": 170.68750000000563,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 171.25000000000566,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 172.18750000000568,
+      "_time": 171.25000000000566,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 173.1875000000057,
+      "_time": 171.75000000000566,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 172.25000000000568,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 173.1875000000057,
+      "_time": 172.25000000000568,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 172.7500000000057,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 173.25000000000574,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 173.25000000000574,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
@@ -2514,22 +3072,43 @@
       "_cutDirection": 1
     },
     {
-      "_time": 174.68750000000577,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 175.68750000000583,
+      "_time": 174.25000000000577,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 175.68750000000583,
+      "_time": 174.25000000000577,
       "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 174.7500000000058,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 175.1875000000058,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 175.1875000000058,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 175.68750000000583,
+      "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
@@ -2543,48 +3122,55 @@
     },
     {
       "_time": 176.18750000000585,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 177.25000000000588,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 177.25000000000588,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 177.62500000000588,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 177.62500000000588,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 178.1250000000059,
+      "_time": 176.68750000000585,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 177.18750000000588,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 177.18750000000588,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 177.7500000000059,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 178.1875000000059,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 178.1250000000059,
+      "_time": 178.1875000000059,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 178.81250000000594,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
@@ -2592,7 +3178,7 @@
     },
     {
       "_time": 179.18750000000597,
-      "_lineIndex": 0,
+      "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
@@ -2600,6 +3186,20 @@
     {
       "_time": 179.18750000000597,
       "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 179.68750000000597,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 180.125000000006,
+      "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
@@ -2612,22 +3212,71 @@
       "_cutDirection": 1
     },
     {
+      "_time": 180.62500000000603,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
       "_time": 181.18750000000603,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 181.18750000000603,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 181.62500000000605,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 182.12500000000608,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 182.25000000000608,
-      "_lineIndex": 0,
+      "_time": 182.12500000000608,
+      "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 183.1875000000061,
-      "_lineIndex": 0,
+      "_time": 182.62500000000608,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 183.1250000000061,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 183.1250000000061,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 183.62500000000614,
+      "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
@@ -2640,477 +3289,484 @@
       "_cutDirection": 1
     },
     {
-      "_time": 184.12500000000614,
+      "_time": 184.18750000000614,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 185.18750000000617,
+      "_time": 184.62500000000617,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 185.5625000000062,
+      "_time": 185.1250000000062,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 186.06250000000622,
-      "_lineIndex": 1,
+      "_time": 185.1250000000062,
+      "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 186.06250000000622,
+      "_time": 185.6875000000062,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 187.12500000000625,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 187.12500000000625,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 188.12500000000628,
+      "_time": 186.1875000000062,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 188.12500000000628,
+      "_time": 186.1875000000062,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 186.68750000000622,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 189.12500000000634,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 189.12500000000634,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 189.62500000000634,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 189.62500000000634,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 191.1250000000064,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 191.1250000000064,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 191.68750000000642,
+      "_time": 187.06250000000625,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 192.12500000000645,
+      "_time": 187.06250000000625,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 187.56250000000625,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 192.12500000000645,
+      "_time": 188.06250000000628,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 188.06250000000628,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 193.18750000000648,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 193.18750000000648,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 194.18750000000654,
+      "_time": 188.43750000000628,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 194.68750000000654,
+      "_time": 189.0625000000063,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 195.12500000000657,
+      "_time": 189.0625000000063,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 195.6250000000066,
+      "_time": 190.06250000000637,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 196.1250000000066,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 196.68750000000662,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 197.62500000000665,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 197.62500000000665,
+      "_time": 190.06250000000637,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 199.1875000000067,
+      "_time": 191.0625000000064,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 199.1875000000067,
+      "_time": 191.0625000000064,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 192.12500000000642,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 192.12500000000642,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 200.18750000000676,
+      "_time": 193.06250000000648,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 200.18750000000676,
+      "_time": 193.06250000000648,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 201.2500000000068,
-      "_lineIndex": 1,
+      "_time": 194.0000000000065,
+      "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 201.2500000000068,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 201.75000000000682,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 201.75000000000682,
+      "_time": 194.0000000000065,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 202.18750000000682,
+      "_time": 195.00000000000654,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 202.18750000000682,
+      "_time": 195.00000000000654,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 202.56250000000685,
-      "_lineIndex": 1,
+      "_time": 196.06250000000657,
+      "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 202.56250000000685,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 203.12500000000688,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 203.12500000000688,
+      "_time": 196.06250000000657,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 204.1250000000069,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 204.1250000000069,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 205.12500000000693,
+      "_time": 197.00000000000662,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 205.12500000000693,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 205.68750000000696,
+      "_time": 197.00000000000662,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 206.625000000007,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 207.62500000000705,
+      "_time": 198.00000000000665,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 207.62500000000705,
+      "_time": 198.00000000000665,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 208.12500000000708,
+      "_time": 199.00000000000668,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 208.12500000000708,
+      "_time": 199.00000000000668,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 209.1875000000071,
-      "_lineIndex": 1,
+      "_time": 200.0625000000067,
+      "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 209.1875000000071,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 209.5625000000071,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 209.5625000000071,
+      "_time": 200.0625000000067,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 210.06250000000713,
+      "_time": 201.00000000000676,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 210.06250000000713,
+      "_time": 201.00000000000676,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 211.1250000000072,
+      "_time": 201.93750000000682,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 211.1250000000072,
+      "_time": 201.93750000000682,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 212.06250000000722,
+      "_time": 202.93750000000685,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 202.93750000000685,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 204.00000000000688,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 204.00000000000688,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 213.12500000000725,
+      "_time": 204.93750000000693,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 214.1875000000073,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 214.18750000000728,
+      "_time": 204.93750000000693,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 214.7500000000073,
+      "_time": 205.43750000000696,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 215.12500000000733,
+      "_time": 205.93750000000696,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 206.375000000007,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 206.93750000000702,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 215.25000000000733,
+      "_time": 206.93750000000702,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 207.87500000000705,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 215.25000000000733,
+      "_time": 207.87500000000705,
       "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 208.87500000000708,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 208.87500000000708,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 209.87500000000713,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 209.87500000000713,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 210.87500000000716,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 210.87500000000716,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 211.8125000000072,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 211.8125000000072,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 212.81250000000722,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 212.81250000000722,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 213.81250000000728,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 213.81250000000728,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 214.8125000000073,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 214.8125000000073,
+      "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
@@ -3130,141 +3786,393 @@
       "_cutDirection": 1
     },
     {
-      "_time": 216.25000000000736,
+      "_time": 216.75000000000736,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 216.25000000000736,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 216.7500000000074,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 216.7500000000074,
+      "_time": 216.75000000000736,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 217.2500000000074,
-      "_lineIndex": 0,
+      "_time": 217.75000000000742,
+      "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 217.2500000000074,
+      "_time": 217.75000000000742,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 217.68750000000742,
+      "_time": 218.75000000000745,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 217.68750000000742,
+      "_time": 218.75000000000745,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 219.3750000000075,
+      "_time": 219.6875000000075,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 219.6875000000075,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 220.68750000000753,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 221.25000000000756,
+      "_time": 220.68750000000753,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 221.7500000000076,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 222.0625000000076,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 223.31250000000765,
+      "_time": 222.62500000000762,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 223.12500000000762,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 225.31250000000773,
+      "_time": 223.56250000000765,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 224.06250000000767,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 224.50000000000767,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 225.0625000000077,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 225.0625000000077,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 226.18750000000776,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 227.3125000000078,
+      "_time": 226.7500000000078,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 227.2500000000078,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 229.25000000000787,
+      "_time": 227.68750000000782,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 228.18750000000784,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 228.62500000000784,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 229.18750000000787,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 229.18750000000787,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 230.1875000000079,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 231.25000000000796,
+      "_time": 230.68750000000793,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 231.68750000000796,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 231.68750000000796,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 232.125000000008,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 233.25000000000801,
+      "_time": 232.68750000000801,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 233.12500000000801,
       "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 233.12500000000801,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 234.12500000000807,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 234.62500000000807,
+      "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
       "_time": 235.1875000000081,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 235.62500000000813,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 237.25000000000819,
+      "_time": 236.12500000000816,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 237.12500000000819,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 237.12500000000819,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 237.5625000000082,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 239.25000000000827,
+      "_time": 238.0625000000082,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 238.56250000000824,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 241.12500000000833,
+      "_time": 238.56250000000824,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 239.06250000000824,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 239.06250000000824,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 239.50000000000827,
       "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 240.0625000000083,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 240.5000000000083,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 240.5000000000083,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 241.50000000000836,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 241.50000000000836,
+      "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 242.06250000000838,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 242.6250000000084,
+      "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
@@ -3277,2863 +4185,1533 @@
       "_cutDirection": 1
     },
     {
-      "_time": 296.06250000001046,
-      "_lineIndex": 0,
+      "_time": 243.56250000000844,
+      "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 244.06250000000847,
+      "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 296.06250000001046,
+      "_time": 244.50000000000847,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 297.12500000001046,
+      "_time": 245.0625000000085,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 297.50000000001046,
-      "_lineIndex": 1,
+      "_time": 245.0625000000085,
+      "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 298.00000000001046,
-      "_lineIndex": 1,
+      "_time": 246.00000000000853,
+      "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 298.00000000001046,
+      "_time": 246.00000000000853,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 299.06250000001046,
+      "_time": 246.56250000000855,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 299.06250000001046,
+      "_time": 246.56250000000855,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 300.06250000001046,
+      "_time": 247.50000000000858,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 300.06250000001046,
-      "_lineIndex": 2,
+      "_time": 248.00000000000858,
+      "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 301.0625000000105,
-      "_lineIndex": 0,
+      "_time": 248.00000000000858,
+      "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 301.0625000000105,
-      "_lineIndex": 3,
+      "_time": 248.5000000000086,
+      "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 301.5625000000105,
+      "_time": 249.0000000000086,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 301.5625000000105,
+      "_time": 249.0000000000086,
       "_lineIndex": 3,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 249.93750000000867,
+      "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 303.0625000000106,
+      "_time": 250.43750000000867,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 303.0625000000106,
+      "_time": 250.43750000000867,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 303.6250000000106,
+      "_time": 250.9375000000087,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 304.0625000000106,
+      "_time": 251.31250000000873,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 304.0625000000106,
-      "_lineIndex": 3,
+      "_time": 251.43750000000873,
+      "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 305.1250000000106,
-      "_lineIndex": 0,
+      "_time": 251.62500000000873,
+      "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 305.1250000000106,
+      "_time": 251.81250000000875,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 306.12500000001063,
+      "_time": 252.00000000000875,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 306.62500000001063,
+      "_time": 252.18750000000875,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 307.0625000000107,
-      "_lineIndex": 3,
+      "_time": 252.37500000000875,
+      "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 307.5625000000107,
-      "_lineIndex": 0,
+      "_time": 252.56250000000878,
+      "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 308.0625000000107,
+      "_time": 252.75000000000878,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 308.6250000000107,
+      "_time": 252.93750000000878,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 309.5625000000107,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 309.5625000000107,
-      "_lineIndex": 3,
+      "_time": 253.12500000000878,
+      "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 311.12500000001074,
+      "_time": 253.5000000000088,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 311.12500000001074,
+      "_time": 253.5000000000088,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 312.1250000000108,
+      "_time": 254.43750000000884,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 312.1250000000108,
-      "_lineIndex": 2,
+      "_time": 254.87500000000887,
+      "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 313.1875000000108,
-      "_lineIndex": 1,
+      "_time": 255.4375000000089,
+      "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 313.1875000000108,
+      "_time": 255.9375000000089,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 313.6875000000108,
-      "_lineIndex": 1,
+      "_time": 256.4375000000089,
+      "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 313.6875000000108,
+      "_time": 256.8125000000089,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 314.1250000000108,
+      "_time": 257.375000000009,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 314.1250000000108,
+      "_time": 257.875000000009,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 314.5000000000108,
-      "_lineIndex": 1,
+      "_time": 258.375000000009,
+      "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 314.5000000000108,
-      "_lineIndex": 2,
+      "_time": 258.81250000000904,
+      "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 315.0625000000108,
-      "_lineIndex": 1,
+      "_time": 259.37500000000904,
+      "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 315.0625000000108,
+      "_time": 259.87500000000904,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 316.0625000000108,
-      "_lineIndex": 1,
+      "_time": 260.3750000000091,
+      "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 316.0625000000108,
-      "_lineIndex": 3,
+      "_time": 260.7500000000091,
+      "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 317.0625000000108,
+      "_time": 261.2500000000091,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 317.0625000000108,
+      "_time": 262.31250000000915,
+      "_lineIndex": 1,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 262.31250000000915,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 317.6250000000108,
-      "_lineIndex": 2,
+      "_time": 262.75000000000915,
+      "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 318.5625000000108,
-      "_lineIndex": 1,
+      "_time": 262.75000000000915,
+      "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 319.56250000001086,
-      "_lineIndex": 0,
+      "_time": 263.8125000000092,
+      "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 319.56250000001086,
+      "_time": 263.8125000000092,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 320.0625000000109,
+      "_time": 264.3125000000092,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 320.0625000000109,
+      "_time": 264.3125000000092,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 321.1250000000109,
-      "_lineIndex": 1,
+      "_time": 265.25000000000927,
+      "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 321.1250000000109,
-      "_lineIndex": 2,
+      "_time": 265.25000000000927,
+      "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 321.5000000000109,
+      "_time": 265.81250000000927,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 321.5000000000109,
+      "_time": 265.81250000000927,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 322.0000000000109,
+      "_time": 266.3125000000093,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 322.0000000000109,
+      "_time": 266.3125000000093,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 323.06250000001097,
-      "_lineIndex": 0,
+      "_time": 266.8125000000093,
+      "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 323.06250000001097,
+      "_time": 266.8125000000093,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 324.000000000011,
-      "_lineIndex": 3,
+      "_time": 267.3125000000093,
+      "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 325.062500000011,
-      "_lineIndex": 0,
+      "_time": 267.3125000000093,
+      "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 326.1250000000111,
+      "_time": 267.7500000000094,
       "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 267.7500000000094,
+      "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 327.06250000001114,
+      "_time": 268.2500000000094,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 327.37500000001165,
+      "_time": 268.2500000000094,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 328.0625000000117,
+      "_time": 269.25000000000944,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 328.0625000000117,
-      "_lineIndex": 3,
+      "_time": 269.75000000000944,
+      "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 328.375000000011,
-      "_lineIndex": 3,
+      "_time": 270.25000000000944,
+      "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 329.1250000000117,
+      "_time": 270.75000000000944,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 329.3750000000104,
-      "_lineIndex": 3,
+      "_time": 271.25000000000944,
+      "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 329.5000000000117,
-      "_lineIndex": 1,
+      "_time": 271.62500000000944,
+      "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 330.0000000000117,
-      "_lineIndex": 1,
+      "_time": 272.1875000000095,
+      "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 330.0000000000117,
+      "_time": 272.6875000000095,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 330.3750000000098,
-      "_lineIndex": 3,
+      "_time": 273.1875000000095,
+      "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 331.0625000000117,
+      "_time": 273.62500000000955,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 331.0625000000117,
+      "_time": 274.18750000000955,
+      "_lineIndex": 0,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 274.6250000000096,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 332.0625000000117,
+      "_time": 275.18750000000966,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 332.0625000000117,
+      "_time": 275.62500000000966,
       "_lineIndex": 2,
+      "_lineLayer": 1,
+      "_type": 0,
+      "_cutDirection": 1
+    },
+    {
+      "_time": 276.18750000000966,
+      "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 333.06250000001177,
+      "_time": 277.1875000000097,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 333.06250000001177,
+      "_time": 277.1875000000097,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 333.56250000001177,
+      "_time": 278.8125000000098,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 333.56250000001177,
-      "_lineIndex": 3,
+      "_time": 278.8125000000098,
+      "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 335.0625000000118,
+      "_time": 280.25000000000983,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 335.0625000000118,
+      "_time": 280.25000000000983,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 335.6250000000118,
+      "_time": 280.8125000000099,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 336.0625000000118,
+      "_time": 280.8125000000099,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 336.0625000000118,
-      "_lineIndex": 3,
+      "_time": 281.3125000000099,
+      "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 337.1250000000118,
-      "_lineIndex": 0,
+      "_time": 281.5625000000099,
+      "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 337.1250000000118,
+      "_time": 281.8125000000099,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 338.1250000000119,
+      "_time": 282.2500000000099,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 338.6250000000119,
+      "_time": 282.4375000000099,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 339.06250000001194,
-      "_lineIndex": 3,
+      "_time": 282.6875000000099,
+      "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 339.56250000001194,
-      "_lineIndex": 0,
+      "_time": 282.9375000000099,
+      "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 340.06250000001194,
+      "_time": 283.1250000000099,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 340.62500000001194,
+      "_time": 283.3125000000099,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 341.56250000001194,
+      "_time": 283.5625000000099,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 341.56250000001194,
+      "_time": 283.5625000000099,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 343.125000000012,
-      "_lineIndex": 0,
+      "_time": 283.7500000000099,
+      "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 343.125000000012,
-      "_lineIndex": 3,
+      "_time": 284.0625000000099,
+      "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 344.12500000001205,
-      "_lineIndex": 0,
+      "_time": 284.1250000000099,
+      "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 344.12500000001205,
-      "_lineIndex": 2,
+      "_time": 284.2500000000099,
+      "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 345.18750000001205,
-      "_lineIndex": 1,
+      "_time": 284.4375000000099,
+      "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 345.18750000001205,
+      "_time": 284.6875000000099,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 345.68750000001205,
+      "_time": 284.8750000000099,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 345.68750000001205,
-      "_lineIndex": 3,
+      "_time": 285.1250000000099,
+      "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 346.12500000001205,
-      "_lineIndex": 0,
+      "_time": 285.1250000000099,
+      "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 346.12500000001205,
-      "_lineIndex": 2,
+      "_time": 286.12500000001006,
+      "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 346.50000000001205,
-      "_lineIndex": 1,
+      "_time": 286.12500000001006,
+      "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 346.50000000001205,
+      "_time": 286.6250000000101,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 347.06250000001205,
+      "_time": 287.0625000000101,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 347.06250000001205,
+      "_time": 287.0625000000101,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 348.06250000001205,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 348.06250000001205,
-      "_lineIndex": 3,
+      "_time": 287.5625000000101,
+      "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 349.06250000001205,
+      "_time": 288.0625000000101,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 349.06250000001205,
+      "_time": 288.0625000000101,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 349.62500000001205,
+      "_time": 288.5625000000101,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 350.56250000001205,
+      "_time": 289.0000000000101,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 351.5625000000121,
-      "_lineIndex": 0,
+      "_time": 289.0000000000101,
+      "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 351.5625000000121,
-      "_lineIndex": 3,
+      "_time": 289.5000000000101,
+      "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 352.06250000001216,
+      "_time": 290.0000000000101,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 352.06250000001216,
-      "_lineIndex": 2,
+      "_time": 290.0000000000101,
+      "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 353.12500000001216,
-      "_lineIndex": 1,
+      "_time": 290.50000000001023,
+      "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 353.12500000001216,
-      "_lineIndex": 2,
+      "_time": 291.00000000001023,
+      "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 353.50000000001216,
-      "_lineIndex": 1,
+      "_time": 291.00000000001023,
+      "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 353.50000000001216,
-      "_lineIndex": 3,
+      "_time": 291.5000000000103,
+      "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 354.00000000001216,
+      "_time": 292.0000000000103,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 354.00000000001216,
-      "_lineIndex": 2,
+      "_time": 292.0000000000103,
+      "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 355.0625000000122,
-      "_lineIndex": 0,
+      "_time": 292.56250000001035,
+      "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 355.0625000000122,
-      "_lineIndex": 3,
+      "_time": 293.00000000001035,
+      "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 356.0000000000123,
+      "_time": 293.00000000001035,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 357.0625000000123,
-      "_lineIndex": 0,
+      "_time": 293.50000000001035,
+      "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 358.12500000001234,
+      "_time": 294.0000000000104,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 359.0625000000124,
-      "_lineIndex": 0,
+      "_time": 294.0000000000104,
+      "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 376.1250000000104,
-      "_lineIndex": 3,
+      "_time": 294.5000000000104,
+      "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 377.1250000000098,
-      "_lineIndex": 3,
+      "_time": 295.0000000000104,
+      "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 378.12500000000915,
+      "_time": 295.0000000000104,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 379.1250000000085,
-      "_lineIndex": 3,
+      "_time": 295.50000000001046,
+      "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 380.1250000000079,
-      "_lineIndex": 3,
+      "_time": 296.00000000001046,
+      "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 381.1250000000073,
+      "_time": 296.00000000001046,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 382.12500000000665,
-      "_lineIndex": 3,
+      "_time": 296.43750000001046,
+      "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 383.1250000000061,
-      "_lineIndex": 3,
+      "_time": 296.9375000000105,
+      "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 384.12500000000546,
+      "_time": 296.9375000000105,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 385.12500000000483,
-      "_lineIndex": 3,
+      "_time": 297.4375000000105,
+      "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 386.1250000000042,
-      "_lineIndex": 3,
+      "_time": 297.9375000000105,
+      "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 387.1250000000036,
+      "_time": 297.9375000000105,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 388.12500000000296,
-      "_lineIndex": 3,
+      "_time": 298.5000000000106,
+      "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 389.12500000000233,
-      "_lineIndex": 3,
+      "_time": 298.9375000000106,
+      "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 390.1250000000017,
+      "_time": 298.9375000000106,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 391.1250000000011,
-      "_lineIndex": 3,
+      "_time": 299.4375000000106,
+      "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 391.1875000000011,
-      "_lineIndex": 2,
+      "_time": 299.93750000001063,
+      "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 391.250000000001,
+      "_time": 299.93750000001063,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 391.31250000000097,
+      "_time": 300.5000000000107,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 391.37500000000097,
-      "_lineIndex": 3,
+      "_time": 300.9375000000107,
+      "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 391.4375000000009,
-      "_lineIndex": 2,
+      "_time": 300.9375000000107,
+      "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 391.50000000000085,
-      "_lineIndex": 3,
+      "_time": 301.4375000000107,
+      "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 391.56250000000085,
-      "_lineIndex": 2,
+      "_time": 301.93750000001074,
+      "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 391.6250000000008,
+      "_time": 301.93750000001074,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 457.1249999999601,
-      "_lineIndex": 3,
+      "_time": 302.50000000001074,
+      "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 457.6874999999601,
-      "_lineIndex": 3,
+      "_time": 302.93750000001074,
+      "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 458.12499999995947,
-      "_lineIndex": 0,
+      "_time": 302.93750000001074,
+      "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 458.6249999999592,
-      "_lineIndex": 0,
+      "_time": 303.43750000001074,
+      "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 459.1249999999601,
-      "_lineIndex": 3,
+      "_time": 303.9375000000108,
+      "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 459.6874999999601,
+      "_time": 303.9375000000108,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 460.1249999999583,
-      "_lineIndex": 0,
+      "_time": 304.5000000000108,
+      "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 460.62499999995794,
-      "_lineIndex": 0,
+      "_time": 304.9375000000108,
+      "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 461.12499999995765,
+      "_time": 304.9375000000108,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 461.68749999995765,
-      "_lineIndex": 3,
+      "_time": 305.4375000000108,
+      "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 462.124999999957,
+      "_time": 305.93750000001086,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 462.6249999999567,
-      "_lineIndex": 0,
+      "_time": 305.93750000001086,
+      "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 463.12499999995765,
-      "_lineIndex": 3,
+      "_time": 306.5000000000109,
+      "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 463.68749999995765,
-      "_lineIndex": 3,
+      "_time": 306.9375000000109,
+      "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 464.12499999995765,
-      "_lineIndex": 1,
+      "_time": 306.9375000000109,
+      "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 464.12499999995765,
+      "_time": 307.4375000000109,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 464.62499999995765,
+      "_time": 307.93750000001097,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 464.62499999995765,
-      "_lineIndex": 2,
+      "_time": 307.93750000001097,
+      "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 465.1249999999564,
-      "_lineIndex": 3,
+      "_time": 308.50000000001097,
+      "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 465.6874999999564,
-      "_lineIndex": 3,
+      "_time": 308.93750000001097,
+      "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 466.1249999999564,
-      "_lineIndex": 1,
+      "_time": 308.93750000001097,
+      "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 466.1249999999564,
+      "_time": 309.43750000001097,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 466.6249999999564,
+      "_time": 309.937500000011,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 466.6249999999564,
-      "_lineIndex": 2,
+      "_time": 309.937500000011,
+      "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 467.12499999995396,
-      "_lineIndex": 3,
+      "_time": 310.500000000011,
+      "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 467.68749999995396,
-      "_lineIndex": 3,
+      "_time": 310.937500000011,
+      "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 468.12499999995396,
-      "_lineIndex": 1,
+      "_time": 310.937500000011,
+      "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 468.12499999995396,
+      "_time": 311.437500000011,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 468.62499999995396,
+      "_time": 311.9375000000111,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 468.62499999995396,
-      "_lineIndex": 2,
+      "_time": 311.9375000000111,
+      "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 469.12499999995396,
-      "_lineIndex": 3,
+      "_time": 312.50000000001114,
+      "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 469.68749999995396,
-      "_lineIndex": 3,
+      "_time": 312.93750000001114,
+      "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 470.12499999995396,
-      "_lineIndex": 1,
+      "_time": 312.93750000001114,
+      "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 470.12499999995396,
+      "_time": 313.43750000001114,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 470.62499999995396,
+      "_time": 313.9375000000112,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 470.62499999995396,
-      "_lineIndex": 2,
+      "_time": 313.9375000000112,
+      "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 471.12499999995265,
-      "_lineIndex": 3,
+      "_time": 314.5000000000112,
+      "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 471.68749999995265,
-      "_lineIndex": 3,
+      "_time": 314.9375000000112,
+      "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 472.12499999995265,
-      "_lineIndex": 1,
+      "_time": 314.9375000000112,
+      "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 472.12499999995265,
+      "_time": 315.4375000000112,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 472.62499999995265,
+      "_time": 315.93750000001125,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 472.62499999995265,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 473.1249999999502,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 473.6874999999502,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 474.1249999999502,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 474.1249999999502,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 474.6249999999502,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 474.6249999999502,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 475.1249999999502,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 475.6874999999502,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 476.1249999999502,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 476.1249999999502,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 476.6249999999502,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 476.6249999999502,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 477.12499999994895,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 477.68749999994895,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 478.12499999994895,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 478.12499999994895,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 478.62499999994895,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 478.62499999994895,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 479.1249999999465,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 479.6874999999465,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 480.1249999999465,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 480.1249999999465,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 480.6249999999465,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 480.6249999999465,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 481.1249999999465,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 481.6874999999465,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 482.1249999999465,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 482.1249999999465,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 482.6249999999465,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 482.6249999999465,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 483.1249999999452,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 483.6874999999452,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 484.1249999999452,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 484.1249999999452,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 484.6249999999452,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 484.6249999999452,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 485.12499999994276,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 485.68749999994276,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 486.12499999994276,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 486.12499999994276,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 486.62499999994276,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 486.62499999994276,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 487.12499999994276,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 487.68749999994276,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 488.12499999994276,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 488.12499999994276,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 488.62499999994276,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 488.62499999994276,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 489.1249999999415,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 489.6874999999415,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 490.1249999999415,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 490.1249999999415,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 490.6249999999415,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 490.6249999999415,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 491.12499999993906,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 491.68749999993906,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 492.12499999993906,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 492.12499999993906,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 492.62499999993906,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 492.62499999993906,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 493.0624999999378,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 493.0624999999378,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 493.5624999999378,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 493.5624999999378,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 493.8546195651549,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 494.1032608695027,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 494.35190217385053,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 494.60054347819835,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 494.84918478254616,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 495.097826086894,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 495.3464673912418,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 495.5951086955896,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 495.8437499999374,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 496.1249999999359,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 496.1249999999359,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 497.1874999999359,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 497.5624999999359,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 498.0624999999359,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 498.0624999999359,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 499.1249999999359,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 499.1249999999359,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 500.1249999999359,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 500.1249999999359,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 501.12499999993594,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 501.12499999993594,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 501.62499999993594,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 501.62499999993594,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 503.124999999936,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 503.124999999936,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 503.687499999936,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 504.124999999936,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 504.124999999936,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 505.187499999936,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 505.187499999936,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 506.18749999993605,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 506.68749999993605,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 507.1249999999361,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 507.6249999999361,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 508.1249999999361,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 508.6874999999361,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 509.6249999999361,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 509.6249999999361,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 511.18749999993616,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 511.18749999993616,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 512.1874999999362,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 512.1874999999362,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 513.2499999999362,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 513.2499999999362,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 513.7499999999362,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 513.7499999999362,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 514.1874999999362,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 514.1874999999362,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 514.5624999999362,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 514.5624999999362,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 515.1249999999362,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 515.1249999999362,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 516.1249999999362,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 516.1249999999362,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 517.1249999999362,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 517.1249999999362,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 517.6874999999362,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 518.6249999999362,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 519.6249999999363,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 519.6249999999363,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 520.1249999999363,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 520.1249999999363,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 521.1874999999363,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 521.1874999999363,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 521.5624999999363,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 521.5624999999363,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 522.0624999999363,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 522.0624999999363,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 523.1249999999363,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 523.1249999999363,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 524.0624999999363,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 525.1249999999363,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 526.1874999999363,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 528.124999999916,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 528.124999999916,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 529.187499999916,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 529.562499999916,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 530.062499999916,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 530.062499999916,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 531.124999999916,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 531.124999999916,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 532.124999999916,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 532.124999999916,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 533.1249999999161,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 533.1249999999161,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 533.6249999999161,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 533.6249999999161,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 535.1249999999161,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 535.1249999999161,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 535.6874999999161,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 536.1249999999161,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 536.1249999999161,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 537.1874999999161,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 537.1874999999161,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 538.1874999999161,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 538.6874999999161,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 539.1249999999161,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 539.6249999999161,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 540.1249999999161,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 540.6874999999161,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 541.6249999999161,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 541.6249999999161,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 543.1874999999161,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 543.1874999999161,
+      "_time": 315.93750000001125,
       "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 544.1874999999161,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 544.1874999999161,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 545.2499999999161,
-      "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 545.2499999999161,
+      "_time": 316.50000000001125,
       "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 545.7499999999161,
+      "_time": 316.93750000001125,
       "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 545.7499999999161,
+      "_time": 316.93750000001125,
       "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 546.1874999999161,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 546.1874999999161,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 546.5624999999161,
-      "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 546.5624999999161,
+      "_time": 317.43750000001125,
       "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 547.1249999999161,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 547.1249999999161,
-      "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 548.1249999999161,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 548.1249999999161,
-      "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 549.1249999999161,
+      "_time": 317.9375000000113,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 549.1249999999161,
+      "_time": 317.9375000000113,
       "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 549.6874999999161,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 550.6249999999161,
-      "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 551.6249999999161,
+      "_time": 435.0625000000158,
       "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 551.6249999999161,
-      "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 552.1249999999161,
+      "_time": 435.5625000000158,
       "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 552.1249999999161,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 553.1874999999161,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 553.1874999999161,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 553.5624999999161,
-      "_lineIndex": 1,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 553.5624999999161,
+      "_time": 435.5625000000158,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 554.0624999999161,
+      "_time": 437.0625000000159,
       "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 554.0624999999161,
-      "_lineIndex": 2,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 555.1249999999161,
+      "_time": 437.5625000000159,
       "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 555.1249999999161,
-      "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 556.0624999999161,
+      "_time": 437.5625000000159,
       "_lineIndex": 3,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 557.1249999999161,
-      "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 558.1874999999161,
-      "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 560.1249999998961,
+      "_time": 439.0000000000159,
       "_lineIndex": 0,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 560.1249999998961,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 560.6249999998959,
-      "_lineIndex": 1,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 560.6249999998959,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 561.1249999998955,
-      "_lineIndex": 2,
-      "_lineLayer": 1,
-      "_type": 0,
-      "_cutDirection": 1
-    },
-    {
-      "_time": 561.1249999998955,
-      "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 561.6249999998952,
+      "_time": 439.5000000000159,
       "_lineIndex": 0,
       "_lineLayer": 1,
       "_type": 0,
       "_cutDirection": 1
     },
     {
-      "_time": 561.6249999998952,
+      "_time": 439.5000000000159,
       "_lineIndex": 3,
       "_lineLayer": 1,
       "_type": 0,

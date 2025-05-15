@@ -1,19 +1,19 @@
 {
   "_version": "1",
-  "_songName": "Blinded in Chains",
+  "_songName": "  Anna-Leigh",
   "_songSubName": "",
-  "_songAuthorName": "Avenged Sevenfold",
+  "_songAuthorName": "Royal Republic",
   "_levelAuthorName": "",
   "_explicit": "false",
-  "_beatsPerMinute": 190.0,
+  "_beatsPerMinute": 110.0,
   "_shuffle": 0,
   "_shufflePeriod": 0.5,
   "_previewStartTime": 0,
   "_previewDuration": 0,
-  "_songApproximativeDuration": 395,
+  "_songApproximativeDuration": 195,
   "_songFilename": "song.ogg",
   "_coverImageFilename": "cover.jpg",
-  "_environmentName": "Helheim",
+  "_environmentName": "Hellfest",
   "_songTimeOffset": 0,
   "_customData": {
     "_contributors": [],
@@ -30,7 +30,7 @@
       "_difficultyBeatmaps": [
         {
           "_difficulty": "Easy",
-          "_difficultyRank": 12,
+          "_difficultyRank": 1,
           "_beatmapFilename": "Easy.dat",
           "_noteJumpMovementSpeed": 20.0,
           "_noteJumpStartBeatOffset": 0,
